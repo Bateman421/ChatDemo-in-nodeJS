@@ -1,0 +1,24 @@
+{
+  "name": "chatdemo-in-nodejs",
+  "version": "1.0.0",
+  "description": "A demo working as evidence of following a course project, for the posterity",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bateman421/ChatDemo-in-nodeJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bateman421/ChatDemo-in-nodeJS/issues"
+  },
+  "homepage": "https://github.com/Bateman421/ChatDemo-in-nodeJS#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
